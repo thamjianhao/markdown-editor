@@ -22,7 +22,7 @@ From there, I adopted a **refinement-based approach**, using smaller, targeted p
 
 ### 1. Initial Build Prompt
 
-> Build a browser-based Markdown Editor using plain JavaScript. The application should include three panels: a file list on the left, a Markdown editor in the middle, and a live preview on the right. All data should be saved locally in the browser using localStorage. Focus on building the core functionality first; styling can be refined later.
+> Build a browser-based Markdown Editor using plain JavaScript. The application should include three panels: a file list on the left, a Markdown editor in the middle, and a live preview on the right. All data should be saved locally in the browser. Focus on building the core functionality first; styling can be refined later.
 
 **Explanation:**  
 This prompt established the foundation of the project, defining the core structure and functionality before moving on to UI refinements.
