@@ -132,4 +132,4 @@ The model’s output was partially functional, but the file structure layout bro
 
 However, despite multiple clarifications, the model insisted that the issue was fixed when it wasn’t. At this point, I restarted in a new chat, uploaded the last working version of the code, and focused on a step-by-step, one feature at a time approach (e.g., first upload functionality, then folder creation, then downloads).
 
-This incremental strategy worked much better, producing stable and accurate results. I realised that **granular, focused prompts yield more reliable outcomes** than large, multi-objective instructions, which tend to create entangled logic and regressions.
+This incremental strategy worked much better, producing stable and accurate results. With this, I realised that **singular, focused prompts yield more reliable outcomes** than large, multi-objective instructions, which tend to create entangled logic and regressions.
