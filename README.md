@@ -47,16 +47,7 @@ This enhancement allowed users to import and edit their own Markdown files, impr
 
 ---
 
-### 4. Double-Click Debugging
-
-> Fix a bug where double-clicking a file name registers two separate click events. Ensure double-clicks work correctly for triggering rename actions.
-
-**Explanation:**  
-This prompt addressed a logic issue in the event handling system, ensuring smoother and more predictable file interactions.
-
----
-
-### 5. Folder and File Structure
+### 4. Folder and File Structure
 
 > Expand the file list panel to function like an IDE-style file explorer. Enable users to create folders and organise Markdown files within nested directories.
 
@@ -65,7 +56,7 @@ This iteration introduced folder organisation, allowing for a more scalable and 
 
 ---
 
-### 6. File and Folder Download Feature
+### 5. File and Folder Download Feature
 
 > Add functionality for users to download individual files or entire folders as a ZIP archive. 
 
@@ -74,16 +65,7 @@ This prompt implemented export capabilities, allowing users to back up or share 
 
 ---
 
-### 7. UI Cleanup and Final Adjustments
-
-> Fix a bug where uploading any non-Markdown file types would not display the error warning to the user. 
-
-**Explanation:**  
-This step focused on fixing and finalising the user experience before adding any remaining quality-of-life improvements.
-
----
-
-### 8. Resizable Panels
+### 6. Resizable Panels
 
 > Add resizable dividers between the three panels, allowing users to adjust the width of the file list, editor, and preview panes using draggable sliders.
 
